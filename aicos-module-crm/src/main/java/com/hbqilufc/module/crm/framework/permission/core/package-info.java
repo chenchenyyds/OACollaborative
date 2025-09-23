@@ -1,0 +1,1 @@
+package com.hbqilufc.module.crm.framework.permission.core;

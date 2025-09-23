@@ -1,0 +1,3 @@
+com.hbqilufc.framework.datasource.config.AicosDataSourceAutoConfiguration
+com.hbqilufc.framework.mybatis.config.AicosMybatisAutoConfiguration
+com.hbqilufc.framework.translate.config.AicosTranslateAutoConfiguration

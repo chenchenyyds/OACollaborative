@@ -1,0 +1,3 @@
+com.hbqilufc.framework.mq.redis.config.AicosRedisMQProducerAutoConfiguration
+com.hbqilufc.framework.mq.redis.config.AicosRedisMQConsumerAutoConfiguration
+com.hbqilufc.framework.mq.rabbitmq.config.AicosRabbitMQAutoConfiguration

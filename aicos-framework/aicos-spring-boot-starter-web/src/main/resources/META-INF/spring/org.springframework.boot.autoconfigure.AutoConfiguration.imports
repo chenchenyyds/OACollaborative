@@ -1,0 +1,7 @@
+com.hbqilufc.framework.apilog.config.AicosApiLogAutoConfiguration
+com.hbqilufc.framework.jackson.config.AicosJacksonAutoConfiguration
+com.hbqilufc.framework.swagger.config.AicosSwaggerAutoConfiguration
+com.hbqilufc.framework.web.config.AicosWebAutoConfiguration
+com.hbqilufc.framework.xss.config.AicosXssAutoConfiguration
+com.hbqilufc.framework.banner.config.AicosBannerAutoConfiguration
+com.hbqilufc.framework.encrypt.config.AicosApiEncryptAutoConfiguration

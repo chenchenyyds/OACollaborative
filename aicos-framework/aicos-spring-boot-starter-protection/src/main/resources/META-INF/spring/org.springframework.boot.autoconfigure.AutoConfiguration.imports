@@ -1,0 +1,4 @@
+com.hbqilufc.framework.idempotent.config.AicosIdempotentConfiguration
+com.hbqilufc.framework.lock4j.config.AicosLock4jConfiguration
+com.hbqilufc.framework.ratelimiter.config.AicosRateLimiterConfiguration
+com.hbqilufc.framework.signature.config.AicosApiSignatureAutoConfiguration

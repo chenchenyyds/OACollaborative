@@ -1,0 +1,2 @@
+com.hbqilufc.framework.redis.config.AicosRedisAutoConfiguration
+com.hbqilufc.framework.redis.config.AicosCacheAutoConfiguration

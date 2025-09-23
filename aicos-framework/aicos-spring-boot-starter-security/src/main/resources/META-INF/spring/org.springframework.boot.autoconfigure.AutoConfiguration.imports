@@ -1,0 +1,3 @@
+com.hbqilufc.framework.security.config.AicosSecurityAutoConfiguration
+com.hbqilufc.framework.security.config.AicosWebSecurityConfigurerAdapter
+com.hbqilufc.framework.operatelog.config.AicosOperateLogConfiguration
