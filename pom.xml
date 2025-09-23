@@ -23,6 +23,7 @@
 <!--        <module>aicos-module-mall</module>-->
         <module>aicos-module-crm</module>
         <module>aicos-module-erp</module>
+        <module>aicos-module-oa</module>
 <!--        <module>aicos-module-iot</module>-->
         <!-- AI 大模型的开启，请参考 https://doc.iocoder.cn/ai/build/ 文档，对 JDK 版本要要求！ -->
 <!--        <module>aicos-module-ai</module>-->
